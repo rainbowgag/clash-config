@@ -140,7 +140,7 @@ dns:
 proxy-providers: *airports
 
 proxies: #节点添加到这里
-
+  {{proxies}}
  
 
 
